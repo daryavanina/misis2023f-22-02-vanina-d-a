@@ -1,3 +1,0 @@
-C:/programms/sem3/mine/prj.codeforces/out/build/x64-debug/CMakeFiles/0071a.dir
-C:/programms/sem3/mine/prj.codeforces/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/programms/sem3/mine/prj.codeforces/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
