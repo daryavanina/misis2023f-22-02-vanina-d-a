@@ -7,13 +7,8 @@
 
 project ("prj.codeforces")
 
-
-<<<<<<< HEAD
 add_executable (0071a "0071a.cpp")
 add_executable (0231a "0231a.cpp")
-=======
-add_executable (0071a "0071a")
->>>>>>> 0bbaa200a01bbc4a1060a524570b3afa12e47b54
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET 0071a PROPERTY CXX_STANDARD 20)
