@@ -1,5 +1,5 @@
 OK: file codeforces.id is correct
-CHECK: 20231128-210834
+CHECK: 20231211-024811
 OK: folder prj.codeforces structure is correct
 OK: CMake generator successed
-OK: CMake build (MSVC x64) successed
+ERROR: CMake build (MSVC x64) failed
